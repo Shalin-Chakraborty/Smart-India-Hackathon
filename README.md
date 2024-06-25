@@ -5,11 +5,11 @@
 ### Team: Data_Riders_KGP
 
 - Ritam Mondal (Team Leader)
+- Shalin Chakraborty
 - Soumyadip Biswas
 - Chiradip Biswas
 - Devodita Chakravarty
 - Shamik Bhattacharjee
-- Shalin Chakraborty
 
 ## Project Overview
 
